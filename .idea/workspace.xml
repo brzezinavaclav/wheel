@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca7c4c10-c612-4208-9420-ee77909c8a51" name="Default" comment="" />
+    <ignored path="wheel_modern_setup.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="wheel_modern_setup" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="includer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/Modern/js/includer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="338" column="16" selection-start-line="338" selection-start-column="16" selection-end-line="338" selection-end-column="16" />
+              <folding>
+                <marker date="1475950603928" expanded="true" signature="17618:17649" ph="..." />
+                <marker date="1475950603928" expanded="true" signature="17690:17721" ph="..." />
+                <marker date="1475950603928" expanded="true" signature="23206:23258" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoinWheel.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/install/CoinWheel.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db-conf.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/db-conf.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="driver-conf.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inc/driver-conf.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_highest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/ajax/get_highest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+              <folding>
+                <marker date="1475950344195" expanded="true" signature="176:206" ph="SELECT * FRO... system" />
+                <marker date="1475950344195" expanded="true" signature="301:420" ph="SELECT * FRO... spins" />
+                <marker date="1475950344195" expanded="true" signature="556:590" ph="UPDATE `syst... " />
+                <marker date="1475950344195" expanded="true" signature="670:742" ph="SELECT `alia... players" />
+                <marker date="1475950344195" expanded="true" signature="1017:1096" ph="SELECT `alia... players" />
+                <marker date="1475950344195" expanded="true" signature="1165:1244" ph="SELECT `alia... players" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stats.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/pages/stats.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="240" column="10" selection-start-line="240" selection-start-column="10" selection-end-line="240" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#1;n#!!top" expanded="true" />
+                <marker date="1475950541915" expanded="true" signature="1071:1144" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="1274:1347" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="1477:1550" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="1679:1752" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="1879:1952" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="2079:2152" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="2717:2790" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="2920:2993" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="3123:3196" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="3325:3398" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="3525:3598" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="3725:3798" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="4360:4433" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="4563:4636" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="4766:4839" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="4968:5041" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="5168:5241" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="5368:5441" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="6005:6078" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="6208:6281" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="6411:6484" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="6613:6686" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="6813:6886" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="7013:7086" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="7650:7723" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="7853:7926" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="8056:8129" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="8258:8331" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="8458:8531" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="8658:8731" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="9297:9370" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="9500:9573" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="9703:9776" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="9905:9978" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="10105:10178" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="10305:10378" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="10917:10961" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="11084:11128" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="11251:11295" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="11417:11461" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="11581:11625" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="11745:11789" ph="SELECT `id` spins" />
+                <marker date="1475950541915" expanded="true" signature="12358:12408" ph="SELECT * FRO... spins" />
+                <marker date="1475950541915" expanded="true" signature="12467:12517" ph="SELECT * FRO... spins" />
+                <marker date="1475950541915" expanded="true" signature="12626:12689" ph="SELECT `alia... players" />
+                <marker date="1475950541915" expanded="true" signature="12758:12821" ph="SELECT `alia... players" />
+                <marker date="1475950541915" expanded="true" signature="13356:13386" ph="SELECT * FRO... system" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="track_current_winner.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/ajax/track_current_winner.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1475950556209" expanded="true" signature="180:255" ph="UPDATE `syst... " />
+                <marker date="1475950556209" expanded="true" signature="347:418" ph="UPDATE `syst... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="track_time.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/ajax/track_time.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1475949867908" expanded="true" signature="138:190" ph="SELECT `curr... system" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="track_time.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/ajax/track_time.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <marker date="1475949867908" expanded="true" signature="138:190" ph="SELECT `curr... system" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frontpage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../_wheel_modern/themes/Modern/frontpage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="141" column="12" selection-start-line="141" selection-start-column="12" selection-end-line="142" selection-end-column="36" />
+              <folding>
+                <marker date="1469099609802" expanded="true" signature="7542:7572" ph="SELECT * FRO... system" />
+                <marker date="1469099609802" expanded="true" signature="8444:8506" ph="SELECT `t_sp... players" />
+                <marker date="1469099609802" expanded="true" signature="8699:8723" ph="SELECT `id` spins" />
+                <marker date="1469099609802" expanded="true" signature="10756:10797" ph="SELECT * FRO... news" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/inc/functions.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/themes/Modern/frontpage.php" />
+        <option value="$PROJECT_DIR$/admin/ajax/track_time.php" />
+        <option value="$PROJECT_DIR$/content/ajax/get_highest.php" />
+        <option value="$PROJECT_DIR$/admin/pages/stats.php" />
+        <option value="$PROJECT_DIR$/admin/ajax/track_current_winner.php" />
+        <option value="$PROJECT_DIR$/themes/Modern/js/includer.php" />
+        <option value="$PROJECT_DIR$/install/CoinWheel.sql" />
+        <option value="$PROJECT_DIR$/inc/db-conf.php" />
+        <option value="$PROJECT_DIR$/inc/driver-conf.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="install" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ajax" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheel_modern" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ajax" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\wheel_modern\content\ajax" />
+      <recent name="C:\xampp\htdocs\wheel_modern\admin" />
+      <recent name="C:\xampp\htdocs\wheel_modern\admin\ajax" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca7c4c10-c612-4208-9420-ee77909c8a51" name="Default" comment="" />
+      <created>1475848932739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475848932739</updated>
+      <workItem from="1475848934362" duration="112000" />
+      <workItem from="1475946121189" duration="4247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4359000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/pages/stats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#1;n#!!top" expanded="true" />
+            <marker date="1475950541915" expanded="true" signature="1071:1144" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="1274:1347" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="1477:1550" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="1679:1752" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="1879:1952" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="2079:2152" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="2717:2790" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="2920:2993" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="3123:3196" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="3325:3398" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="3525:3598" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="3725:3798" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="4360:4433" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="4563:4636" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="4766:4839" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="4968:5041" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="5168:5241" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="5368:5441" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="6005:6078" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="6208:6281" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="6411:6484" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="6613:6686" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="6813:6886" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="7013:7086" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="7650:7723" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="7853:7926" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="8056:8129" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="8258:8331" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="8458:8531" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="8658:8731" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="9297:9370" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="9500:9573" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="9703:9776" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="9905:9978" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="10105:10178" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="10305:10378" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="10917:10961" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="11084:11128" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="11251:11295" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="11417:11461" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="11581:11625" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="11745:11789" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="12358:12408" ph="SELECT * FRO... spins" />
+            <marker date="1475950541915" expanded="true" signature="12467:12517" ph="SELECT * FRO... spins" />
+            <marker date="1475950541915" expanded="true" signature="12626:12689" ph="SELECT `alia... players" />
+            <marker date="1475950541915" expanded="true" signature="12758:12821" ph="SELECT `alia... players" />
+            <marker date="1475950541915" expanded="true" signature="13356:13386" ph="SELECT * FRO... system" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1475946405588" expanded="true" signature="1406:1461" ph="SELECT `id` players" />
+            <marker date="1475946405588" expanded="true" signature="1556:1616" ph="SELECT `auto... system" />
+            <marker date="1475946405588" expanded="true" signature="1673:1746" ph="UPDATE `syst... " />
+            <marker date="1475946405588" expanded="true" signature="1773:1875" ph="INSERT INTO `players`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../_wheel_modern/admin/pages/stats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <marker date="1469095545366" expanded="true" signature="1089:1162" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="1292:1365" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="1495:1568" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="1697:1770" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="1897:1970" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="2097:2170" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="2725:2798" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="2928:3001" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="3131:3204" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="3333:3406" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="3533:3606" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="3733:3806" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="4358:4431" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="4561:4634" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="4764:4837" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="4966:5039" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="5166:5239" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="5366:5439" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="5993:6066" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="6196:6269" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="6399:6472" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="6601:6674" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="6801:6874" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="7001:7074" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="7628:7701" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="7831:7904" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="8034:8107" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="8236:8309" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="8436:8509" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="8636:8709" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="9265:9338" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="9468:9541" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="9671:9744" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="9873:9946" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="10073:10146" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="10273:10346" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="10875:10919" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="11042:11086" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="11209:11253" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="11375:11419" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="11539:11583" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="11703:11747" ph="SELECT `id` spins" />
+            <marker date="1469095545366" expanded="true" signature="12361:12411" ph="SELECT * FRO... spins" />
+            <marker date="1469095545366" expanded="true" signature="12459:12522" ph="SELECT `alia... players" />
+            <marker date="1469095545366" expanded="true" signature="12589:12652" ph="SELECT `alia... players" />
+            <marker date="1469095545366" expanded="true" signature="13242:13272" ph="SELECT * FRO... system" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-508">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <marker date="1475948030577" expanded="true" signature="635:678" ph="SELECT * FRO... system" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../_wheel_modern/content/ajax/get_highest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1469451498432" expanded="true" signature="176:206" ph="SELECT * FRO... system" />
+            <marker date="1469451498432" expanded="true" signature="276:395" ph="SELECT * FRO... spins" />
+            <marker date="1469451498432" expanded="true" signature="531:565" ph="UPDATE `syst... " />
+            <marker date="1469451498432" expanded="true" signature="645:717" ph="SELECT `alia... players" />
+            <marker date="1469451498432" expanded="true" signature="1002:1081" ph="SELECT `alia... players" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../_wheel_modern/themes/Modern/frontpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="141" column="12" selection-start-line="141" selection-start-column="12" selection-end-line="142" selection-end-column="36" />
+          <folding>
+            <marker date="1469099609802" expanded="true" signature="7542:7572" ph="SELECT * FRO... system" />
+            <marker date="1469099609802" expanded="true" signature="8444:8506" ph="SELECT `t_sp... players" />
+            <marker date="1469099609802" expanded="true" signature="8699:8723" ph="SELECT `id` spins" />
+            <marker date="1469099609802" expanded="true" signature="10756:10797" ph="SELECT * FRO... news" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/ajax/track_time.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1475949867908" expanded="true" signature="138:190" ph="SELECT `curr... system" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/ajax/track_time.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1475949867908" expanded="true" signature="138:190" ph="SELECT `curr... system" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Modern/frontpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="141" column="52" selection-start-line="141" selection-start-column="52" selection-end-line="141" selection-end-column="52" />
+          <folding>
+            <marker date="1475949815526" expanded="true" signature="7617:7679" ph="SELECT `t_sp... players" />
+            <marker date="1475949815526" expanded="true" signature="7872:7896" ph="SELECT `id` spins" />
+            <marker date="1475949815526" expanded="true" signature="7997:8027" ph="SELECT * FRO... system" />
+            <marker date="1475949815526" expanded="true" signature="10237:10278" ph="SELECT * FRO... news" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pages/stats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="240" column="10" selection-start-line="240" selection-start-column="10" selection-end-line="240" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#1;n#!!top" expanded="true" />
+            <marker date="1475950541915" expanded="true" signature="1071:1144" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="1274:1347" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="1477:1550" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="1679:1752" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="1879:1952" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="2079:2152" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="2717:2790" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="2920:2993" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="3123:3196" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="3325:3398" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="3525:3598" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="3725:3798" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="4360:4433" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="4563:4636" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="4766:4839" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="4968:5041" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="5168:5241" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="5368:5441" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="6005:6078" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="6208:6281" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="6411:6484" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="6613:6686" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="6813:6886" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="7013:7086" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="7650:7723" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="7853:7926" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="8056:8129" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="8258:8331" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="8458:8531" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="8658:8731" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="9297:9370" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="9500:9573" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="9703:9776" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="9905:9978" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="10105:10178" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="10305:10378" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="10917:10961" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="11084:11128" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="11251:11295" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="11417:11461" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="11581:11625" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="11745:11789" ph="SELECT `id` spins" />
+            <marker date="1475950541915" expanded="true" signature="12358:12408" ph="SELECT * FRO... spins" />
+            <marker date="1475950541915" expanded="true" signature="12467:12517" ph="SELECT * FRO... spins" />
+            <marker date="1475950541915" expanded="true" signature="12626:12689" ph="SELECT `alia... players" />
+            <marker date="1475950541915" expanded="true" signature="12758:12821" ph="SELECT `alia... players" />
+            <marker date="1475950541915" expanded="true" signature="13356:13386" ph="SELECT * FRO... system" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/ajax/track_current_winner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1475950556209" expanded="true" signature="180:255" ph="UPDATE `syst... " />
+            <marker date="1475950556209" expanded="true" signature="347:418" ph="UPDATE `syst... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/ajax/get_highest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <marker date="1475950344195" expanded="true" signature="176:206" ph="SELECT * FRO... system" />
+            <marker date="1475950344195" expanded="true" signature="301:420" ph="SELECT * FRO... spins" />
+            <marker date="1475950344195" expanded="true" signature="556:590" ph="UPDATE `syst... " />
+            <marker date="1475950344195" expanded="true" signature="670:742" ph="SELECT `alia... players" />
+            <marker date="1475950344195" expanded="true" signature="1017:1096" ph="SELECT `alia... players" />
+            <marker date="1475950344195" expanded="true" signature="1165:1244" ph="SELECT `alia... players" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Modern/js/includer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="338" column="16" selection-start-line="338" selection-start-column="16" selection-end-line="338" selection-end-column="16" />
+          <folding>
+            <marker date="1475950603928" expanded="true" signature="17618:17649" ph="..." />
+            <marker date="1475950603928" expanded="true" signature="17690:17721" ph="..." />
+            <marker date="1475950603928" expanded="true" signature="23206:23258" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install/CoinWheel.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/db-conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/driver-conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
